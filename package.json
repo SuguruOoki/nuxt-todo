@@ -24,7 +24,7 @@
   "dependencies": {
     "@nuxtjs/dotenv": "^1.4.0",
     "babel-preset-vue": "^2.0.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "ts-node": "^8.3.0"
   },
   "devDependencies": {
